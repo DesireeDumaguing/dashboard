@@ -509,10 +509,13 @@ body {
 }
 #content .information{
   padding-left: 50px;
-  padding-top: 75px;
 }
 #content .information h1{
   font-size: 40px;
+}
+#content .information h2, #content .information h3{
+  font-weight: 500;
+  font-size: 20px;
 }
 @media screen and (max-width: 768px) {
   #sidebar {
