@@ -500,6 +500,20 @@ body {
 /* MAIN */
 /* CONTENT */
 
+/* account.php */
+#content .account{
+  display: flex;
+  background-color: white;
+  padding: 50px;
+  border-radius: 30px;
+}
+#content .information{
+  padding-left: 50px;
+  padding-top: 75px;
+}
+#content .information h1{
+  font-size: 40px;
+}
 @media screen and (max-width: 768px) {
   #sidebar {
     width: 200px;
