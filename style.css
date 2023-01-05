@@ -503,9 +503,14 @@ body {
 /* account.php */
 #content .account{
   display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: white;
   padding: 50px;
   border-radius: 30px;
+}
+#content .pfp{
+  padding-right: 35px;
 }
 #content .information{
   padding-left: 50px;
@@ -513,9 +518,29 @@ body {
 #content .information h1{
   font-size: 40px;
 }
-#content .information h2, #content .information h3{
+#content .information h2{
   font-weight: 500;
-  font-size: 20px;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+#content .information .input{
+  border: 0;
+  border-bottom: 2px solid lightblue;
+  width: 80%;
+  font-size: 1em;
+  margin-bottom: 10px;
+  padding: 7px 0;
+}
+#content .information .btn{
+  text-transform: uppercase;
+  font-size: 15px;
+  border: 0;
+  color: black;
+  background: #3c91e6;
+  padding: 7px 15px;
+  margin-top: 15px;
+  cursor: pointer;
+  border-radius: 5px;
 }
 @media screen and (max-width: 768px) {
   #sidebar {
