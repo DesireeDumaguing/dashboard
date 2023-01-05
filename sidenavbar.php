@@ -44,7 +44,7 @@
     <ul class="side-menu">
       <li>
         <a href="account.php">
-          <i class="bx bxs-cog"></i>
+        <i class='bx bxs-user'></i>
           <span class="text">User Account</span>
         </a>
       </li>
