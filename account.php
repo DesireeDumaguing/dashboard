@@ -21,10 +21,16 @@
                 
                 <div class="information">
                     <h1>My Profile</h1> <br>
-                    <h2>John Doe</h2>
-                    <h3>20 yrs old</h3>
-                    <h3>johndoe@gmail.com</h3>
-                    
+                    <h2>First Name</h2>
+                    <input type="text" class="input" value="John">
+                    <h2>Last Name</h2>
+                    <input type="text" class="input" value="Doe">
+                    <h2>Age</h2>
+                    <input type="text" class="input" value="20">
+                    <h2>Email</h2>
+                    <input type="text" class="input" value="johndoe@gmail.com">
+                    <h2>Password</h2>
+                    <input type="password" class="input" value="johndoe2023">
                 </div>
             </div>
         </main>
