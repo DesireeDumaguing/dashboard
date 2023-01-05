@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <?php include 'libraries.php' ?>
   <link rel="stylesheet" href="style.css">
-  <title>Document</title>
+  <title>Checkout</title>
 </head>
 
 <body>
