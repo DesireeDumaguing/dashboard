@@ -7,13 +7,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include 'libraries.php' ?>
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>User Account</title>
 </head>
 <body>
     <?php include 'sidenavbar.php' ?>
 
     <section id="content">
         <main>
+            <div class="head-title">
+                <div class="left">
+                <h1>User Account</h1>
+                <ul class="breadcrumb">
+                    <li>
+                    <a href="#dashboard">Profile</a>
+                    </li>
+                    <li><i class="bx bx-chevron-right"></i></li>
+                    <li>
+                    <a class="active" href="#">Settings</a>
+                    </li>
+                </ul>
+                </div>
+            </div>
+
             <div class="account">
                 <div class="pfp">
                     <img src="img/pic.jpg" style="width: 350px; border-radius: 20px;">
