@@ -516,7 +516,7 @@ body {
   padding-left: 50px;
 }
 #content .information h1{
-  font-size: 40px;
+  font-size: 35px;
 }
 #content .information h2{
   font-weight: 500;
@@ -542,6 +542,8 @@ body {
   cursor: pointer;
   border-radius: 5px;
 }
+
+
 @media screen and (max-width: 768px) {
   #sidebar {
     width: 200px;
