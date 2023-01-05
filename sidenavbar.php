@@ -39,12 +39,13 @@
           <span class="text">Orders</span>
         </a>
       </li>
+      <li>
     </ul>
     <ul class="side-menu">
       <li>
-        <a href="#">
+        <a href="account.php">
           <i class="bx bxs-cog"></i>
-          <span class="text">Settings</span>
+          <span class="text">User Account</span>
         </a>
       </li>
       <li>
