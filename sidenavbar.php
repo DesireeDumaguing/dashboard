@@ -11,7 +11,7 @@
 <body>
   <!-- SIDEBAR -->
   <section id="sidebar">
-    <a href="#" class="brand">
+    <a href="index.php" class="brand">
       <img src="img/logo.png" alt="">
     </a>
     <ul class="side-menu top">
