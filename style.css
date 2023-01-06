@@ -497,8 +497,7 @@ body {
 #content main .table-data .todo .todo-list li:last-child {
   margin-bottom: 0;
 }
-/* MAIN */
-/* CONTENT */
+
 
 /* account.php */
 #content .account{
@@ -525,11 +524,12 @@ body {
 }
 #content .information .input{
   border: 0;
-  border-bottom: 2px solid lightblue;
   width: 80%;
   font-size: 1em;
   margin-bottom: 10px;
   padding: 7px 0;
+  background-color: #EEEEEE;
+  margin-top: .7em;
 }
 #content .information .btn{
   text-transform: uppercase;
