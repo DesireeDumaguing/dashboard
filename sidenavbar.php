@@ -22,6 +22,12 @@
         </a>
       </li>
       <li>
+        <a href="inventory.php">
+          <i class="bx bxs-layer"></i>
+          <span class="text">Inventory</span>
+        </a>
+      </li>
+      <li>
         <a href="products.php">
           <i class="bx bxs-cake"></i>
           <span class="text">Products</span>
@@ -44,7 +50,7 @@
     <ul class="side-menu">
       <li>
         <a href="account.php">
-        <i class='bx bxs-user'></i>
+          <i class='bx bxs-user'></i>
           <span class="text">Account</span>
         </a>
       </li>
