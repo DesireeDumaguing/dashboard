@@ -531,17 +531,6 @@ body {
   background-color: #EEEEEE;
   margin-top: .7em;
 }
-#content .information .btn{
-  text-transform: uppercase;
-  font-size: 15px;
-  border: 0;
-  color: black;
-  background: #3c91e6;
-  padding: 7px 15px;
-  margin-top: 15px;
-  cursor: pointer;
-  border-radius: 5px;
-}
 
 
 @media screen and (max-width: 768px) {
