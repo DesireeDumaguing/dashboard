@@ -500,7 +500,7 @@ body {
 
 
 /* account.php */
-#content .account{
+#content .account {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -509,6 +509,9 @@ body {
   border-radius: 30px;
   margin-top: 20px;
 }
+
+/* KULANG PA NG SWITCH MODE SHIT */
+
 #content .pfp{
   padding-right: 35px;
 }
@@ -564,12 +567,36 @@ body {
     display: none;
   }
 
+  #content .pfp img{
+    width: 100px;
+  }
   #content .information{
     padding-left: 0;
   }
 
   #content .information h1{
     font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 750px){
+  #content .account{
+    display: flex;
+    flex-direction: column;
+  }
+
+  #content .pfp img{
+    height: 350px;
+  }
+  
+  #content .account h1{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+  }
+
+  #content .information .btn{
+    margin: auto auto;
   }
 }
 
@@ -615,9 +642,5 @@ body {
   }
   #content main .table-data .todo .todo-list {
     min-width: 420px;
-  }
-  #content .account{
-    display: flex;
-    flex-direction: column;
   }
 }
