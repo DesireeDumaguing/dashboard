@@ -45,7 +45,7 @@
       <li>
         <a href="account.php">
         <i class='bx bxs-user'></i>
-          <span class="text">User Account</span>
+          <span class="text">Account</span>
         </a>
       </li>
       <li>
