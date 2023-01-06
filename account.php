@@ -46,7 +46,6 @@
                     <input type="text" class="input" value="johndoe@gmail.com">
                     <h2>Password</h2>
                     <input type="password" class="input" value="johndoe2023">
-                    <button class="btn">Update</button>
                 </div>
             </div>
         </main>
