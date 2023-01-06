@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include 'libraries.php' ?>
     <link rel="stylesheet" href="style.css">
-    <title>User Account</title>
+    <title>Account</title>
 </head>
 <body>
     <?php include 'sidenavbar.php' ?>
@@ -16,7 +16,7 @@
         <main>
             <div class="head-title">
                 <div class="left">
-                <h1>User Account</h1>
+                <h1>Account</h1>
                 <ul class="breadcrumb">
                     <li>
                     <a href="#dashboard">Profile</a>
@@ -46,6 +46,7 @@
                     <input type="text" class="input" value="johndoe@gmail.com">
                     <h2>Password</h2>
                     <input type="password" class="input" value="johndoe2023">
+                    <button class="btn">Update</button>
                 </div>
             </div>
         </main>
